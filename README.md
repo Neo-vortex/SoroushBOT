@@ -25,7 +25,7 @@ How to create a bot ?
    How to send message ? 
    
      Dim Message As New BotCore.Outgoing_Message.Text_Message("OK")
-     Client.Send_Message(BotCore.Message_Types.Message, "CHAT_ID")
+     Client.Send_Message(BotCore.Message_Types.Text ,Message , "CHAT_ID")
      
      
    Known issue:
