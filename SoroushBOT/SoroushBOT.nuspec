@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://choosealicense.com/licenses/gpl-3.0/</licenseUrl>
+    <iconUrl>http://neovortex.ir/icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Features:
+Send and receive Image, Video, Push to talk, Location and text messages </releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>soroush  SoroushBOT</tags>
+  </metadata>
+</package>
