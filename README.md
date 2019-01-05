@@ -1,5 +1,5 @@
 # SoroushBOT
-Create SoroushBOT via .NET platform
+Soroush Messenger Bot Wrapper for .NET platform 
 
 Version 0.0.1 pre-alpha
 
